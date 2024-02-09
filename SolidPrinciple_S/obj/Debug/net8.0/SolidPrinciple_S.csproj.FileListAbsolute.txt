@@ -1,0 +1,15 @@
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\obj\Debug\net8.0\SolidPrinciple_S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\obj\Debug\net8.0\SolidPrinciple_S.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\obj\Debug\net8.0\SolidPrinciple_S.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\obj\Debug\net8.0\SolidPrinciple_S.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\obj\Debug\net8.0\SolidPrinciple_S.sourcelink.json
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\bin\Debug\net8.0\SolidPrinciple_S.exe
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\bin\Debug\net8.0\SolidPrinciple_S.deps.json
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\bin\Debug\net8.0\SolidPrinciple_S.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\bin\Debug\net8.0\SolidPrinciple_S.dll
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\bin\Debug\net8.0\SolidPrinciple_S.pdb
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\obj\Debug\net8.0\SolidPrinciple_S.dll
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\obj\Debug\net8.0\refint\SolidPrinciple_S.dll
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\obj\Debug\net8.0\SolidPrinciple_S.pdb
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\obj\Debug\net8.0\SolidPrinciple_S.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\SolidPrinciple_S\SolidPrinciple_S\obj\Debug\net8.0\ref\SolidPrinciple_S.dll
